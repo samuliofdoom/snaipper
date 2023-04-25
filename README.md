@@ -1,2 +1,2 @@
-# snaipper
+# Snaipper
 AI-powered snipping tool
